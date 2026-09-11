@@ -2,12 +2,6 @@
 
 Sakarya Üniversitesi, Bilgisayar Mühendisliği Bölümü öğrencisiyim.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirkayapinar/emirkayapinar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirkayapinar/emirkayapinar/output/github-contribution-grid-snake.svg">
-  <img alt="Katkı grafiği yılan animasyonu" src="https://raw.githubusercontent.com/emirkayapinar/emirkayapinar/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## Hakkımda
 
 - Sakarya Üniversitesi Bilgisayar Mühendisliği, 2. sınıf
@@ -31,3 +25,9 @@ Sakarya Üniversitesi, Bilgisayar Mühendisliği Bölümü öğrencisiyim.
 ## İletişim
 
 E-posta: emirkayapinar58@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirkayapinar/emirkayapinar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirkayapinar/emirkayapinar/output/github-contribution-grid-snake.svg">
+  <img alt="Katkı grafiği yılan animasyonu" src="https://raw.githubusercontent.com/emirkayapinar/emirkayapinar/output/github-contribution-grid-snake.svg">
+</picture>
