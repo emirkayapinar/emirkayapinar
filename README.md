@@ -4,7 +4,7 @@ Sakarya Üniversitesi, Bilgisayar Mühendisliği Bölümü öğrencisiyim.
 
 ## Hakkımda
 
-- Sakarya Üniversitesi Bilgisayar Mühendisliği, 2. sınıf
+- Sakarya Üniversitesi Bilgisayar Mühendisliği, 2. sınıf öğrencisiyim
 - C#, C++ ve HTML ile yazılım geliştirme üzerine çalışıyorum
 - Yeni projeler geliştirerek bilgi ve deneyimimi artırmayı hedefliyorum
 
