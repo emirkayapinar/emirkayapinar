@@ -22,13 +22,6 @@ Sakarya Üniversitesi, Bilgisayar Mühendisliği Bölümü öğrencisiyim.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirkayapinar&show_icons=true&theme=default&hide_title=true" alt="GitHub istatistikleri" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkayapinar&layout=compact&hide_title=true" alt="En çok kullanılan diller" height="165"/>
-</p>
-
 ## İletişim
 
 E-posta: emirkayapinar58@gmail.com
